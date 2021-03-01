@@ -1,0 +1,15 @@
+{
+    "businessProcess": "Patent Indexing",
+    "subprocess": "Indexing - Polymer, Indexing - Pharma, Indexing - Chemistry, Indexing - Engineering",
+    "patentAutorityGroup": "CN",
+    "patentAutority": "CN",
+    "domain": "Chemical",
+    "subDomain": "POLYMER",
+    "grade": "Trivial, Easy, Medium, Difficult, Nasty, Any",
+    "weeklyMinimumVolume": 10,
+    "weeklyVolumeCap": 20,
+    "unitCostPerTask": 10,
+    "createdBy": "c301180",
+    "updatedBy": "c301180"
+
+}
